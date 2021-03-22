@@ -24,3 +24,14 @@ to This: cd C:\Users\(user)\(Directory where the file is located)\Discord-Rich-P
 After all the actions are Done you should be able to run DoggoBot and DRP without Opening CMD/Powershell and typing the same thing all the time :)
 
 Stopping services Command : CTRL + C (this will end the services and will shutdown the bot and DRP)
+
+UPDATE V0.2a 
+What's new?
+ 
+I Added Client Batch Termination Y/N (so if you pressed CTRL + C it wont close automaticaly)
+Added Heroku Logs Support.
+V1 Discord One Click Bot Hosting is still on full working state :)
+Kill Combi Key: CTRL + C (then ye you know what to do from here)
+
+![image](https://user-images.githubusercontent.com/51787264/111931535-5a822a80-8af6-11eb-8efc-149194182b22.png)
+QUICK NOTE: For Full Command for heroku do this: heroku logs --tail -a (your bot's name)
